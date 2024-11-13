@@ -1,0 +1,5 @@
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\Utilities\obj\Debug\net6.0\Utilities.sourcelink.json

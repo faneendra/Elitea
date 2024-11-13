@@ -1,0 +1,16 @@
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\bin\Debug\net6.0\POM.deps.json
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\bin\Debug\net6.0\POM.dll
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\bin\Debug\net6.0\POM.pdb
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.csproj.AssemblyReference.cache
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.AssemblyInfoInputs.cache
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.AssemblyInfo.cs
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.csproj.CoreCompileInputs.cache
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.sourcelink.json
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.dll
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\refint\POM.dll
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\POM.pdb
+C:\Users\vaddaypalli_faneendr\Desktop\Automation\POM\obj\Debug\net6.0\ref\POM.dll
