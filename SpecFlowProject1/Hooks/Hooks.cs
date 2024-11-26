@@ -1,25 +1,28 @@
-using NUnit.Framework;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
+using TechTalk.SpecFlow;
+using Utilities;
 
-namespace SauceDemoAutomation.Hooks
+namespace SpecFlowProject1.Hooks
 {
     [Binding]
     public class Hooks
     {
-        private IWebDriver _driver;
+        private readonly DriverContext driverContext;
+
+        public Hooks(DriverContext context)
+        {
+            driverContext = context;
+        }
 
         [BeforeScenario]
-        public void Setup()
+        public void BeforeScenario()
         {
-            _driver = new ChromeDriver();
-            _driver.Manage().Window.Maximize();
+            driverContext.InitializeDriver();
         }
 
         [AfterScenario]
-        public void TearDown()
+        public void AfterScenario()
         {
-            _driver.Quit();
+            driverContext.CloseDriver();
         }
     }
 }
